@@ -3,3 +3,8 @@ ipykernel
 langchain_groq
 langchain_community
 langchain_core
+transformers
+langchain-chroma
+langchain_huggingface
+sentence-transformers
+torch
